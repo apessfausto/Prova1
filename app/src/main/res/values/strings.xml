@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prova 1</string>
+    <string name="txt_humor">Humor SeekBar</string>
+    <string name="calc">Como esta seu Humor Hj</string>
+</resources>
